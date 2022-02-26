@@ -1,0 +1,23 @@
+.list{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-size: 32px;
+    font-family: "cursive", "serif", "sans-serif";
+    
+}
+
+#titles{
+    background-color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 48px;
+}
+
+.pics{
+    height: auto;
+    width: 400px;
+}
+
+h1{
+    font-size: 48px;
+}
